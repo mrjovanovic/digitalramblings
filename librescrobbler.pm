@@ -9,7 +9,7 @@
 =for gmbplugin LIBREFMSCROBBLER
 name	libre.fm
 title	libre.fm plugin
-desc	Quick N' Dirty Edit - Submit played songs to last.fm
+desc	Quick N' Dirty Edit - Submit played songs to libre.fm
 =cut
 
 
